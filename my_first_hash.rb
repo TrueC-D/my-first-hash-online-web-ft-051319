@@ -1,7 +1,9 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
+  about_me = {
+          "siblings" => "five brothers",
+          "job experience" => "a mix of marketing/program development, admin assistant jobs and food service",
+          "has lived" => "in different countries"
+           }
 end
 
 
